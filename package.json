@@ -1,0 +1,16 @@
+{
+  "name": "express-mongo-test",
+  "version": "0.0.1",
+  "description": "express-mongo-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongo",
+    "react"
+  ],
+  "author": "Yasuhito",
+  "license": "ISC"
+}
